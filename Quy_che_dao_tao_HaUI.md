@@ -173,7 +173,6 @@ Sinh viên xin nghỉ ốm trong quá trình học hoặc trong đợt thi, ph�
 
 | Năm đào tạo                                       | Cao đẳng chính quy       | Đại học chính quy            |
 |---------------------------------------------------|--------------------------|------------------------------|
-|                                                   | KLTL theo chương trình   | KLTL theo chương trình       |
 | a) Sinh viên năm thứ nhất                         | KLTL ≤ 1/3 KLCT          | KLTL ≤ 1/4 KLCT              |
 | b) Sinh viên năm thứ hai                          | 1/3 KLCT < KLTL≤2/3 KLCT | 1/4 KLCT < KLTL ≤ 1/2 KLCT   |
 | c) Sinh viên năm thứ ba và năm cuối khóa cao đẳng | KLTL >2/3 KLCT           | 1/3 KLCT < KLTL≤3/4 KLCT     |
