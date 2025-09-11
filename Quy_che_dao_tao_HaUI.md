@@ -170,13 +170,13 @@ Sinh viên xin nghỉ ốm trong quá trình học hoặc trong đợt thi, ph�
 **Điều 14. Xếp hạng năm đào tạo và học lực**
 
 1. Sau mỗi học kỳ, căn cứ vào khối lượng kiến thức tích lũy (KLTL) so với khối lượng kiến thức quy định cho chương trình đào tạo (KLCT), sinh viên được xếp hạng năm đào tạo như sau:
-| Năm đào tạo               | Cao đẳng chính quy | Đại học chính quy |
-|----------------------------|--------------------|-------------------|
-|                            | KLTL theo chương trình | KLTL theo chương trình |
-| a) Sinh viên năm thứ nhất  | KLTL ≤ 1/3 KLCT    | KLTL ≤ 1/4 KLCT   |
-| b) Sinh viên năm thứ hai   | 1/3 KLCT < KLTL≤2/3 KLCT | 1/4 KLCT < KLTL ≤ 1/2 KLCT |
-| c) Sinh viên năm thứ ba và năm cuối khóa cao đẳng | KLTL >2/3 KLCT | 1/3 KLCT < KLTL≤3/4 KLCT |
-| d) Sinh viên năm cuối khóa đại học |              | KLTL > 3/4 KLCT  |
+| Năm đào tạo                                       | Cao đẳng chính quy     | Đại học chính quy            |
+|---------------------------------------------------|------------------------|------------------------------|
+|                                                   | KLTL theo chương trình | KLTL theo chương trình       |
+| a) Sinh viên năm thứ nhất                         | KLTL ≤ 1/3 KLCT        | KLTL ≤ 1/4 KLCT              |
+| b) Sinh viên năm thứ hai                          | 1/3 KLCT < KLTL≤2/3 KLCT | 1/4 KLCT < KLTL ≤ 1/2 KLCT |
+| c) Sinh viên năm thứ ba và năm cuối khóa cao đẳng | KLTL >2/3 KLCT         | 1/3 KLCT < KLTL≤3/4 KLCT     |
+| d) Sinh viên năm cuối khóa đại học                |                        | KLTL > 3/4 KLCT              |
 
 
 | Disability Category   | Participants   | Ballots Completed   | Ballots Incomplete/ Terminated   | Results                | Results                       |
