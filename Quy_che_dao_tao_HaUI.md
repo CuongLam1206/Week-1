@@ -179,15 +179,6 @@ Sinh viên xin nghỉ ốm trong quá trình học hoặc trong đợt thi, ph�
 | c) Sinh viên năm thứ ba và năm cuối khóa cao đẳng | KLTL >2/3 KLCT           | 1/3 KLCT < KLTL≤3/4 KLCT     |
 | d) Sinh viên năm cuối khóa đại học                |                          | KLTL > 3/4 KLCT              |
 
-
-| Disability Category   | Participants   | Ballots Completed   | Ballots Incomplete/ Terminated   | Results                | Results                       |
-|-----------------------|----------------|---------------------|----------------------------------|------------------------|-------------------------------|
-|                       |                |                     |                                  | Accuracy               | Time to complete              |
-| Blind                 | 5              | 1                   | 4                                | 34.5%, n=1             | 1199 sec, n=1                 |
-| Low Vision            | 5              | 2                   | 3                                | 98.3% n=2 (97.7%, n=3) | 1716 sec, n=3 (1934 sec, n=2) |
-| Dexterity             | 5              | 4                   | 1                                | 98.3%, n=4             | 1672.1 sec, n=4               |
-| Mobility              | 3              | 3                   | 0                                | 95.4%, n=3             | 1416 sec, n=3                 |
-
 2. Sau mỗi học kỳ, căn cứ vào điểm trung bình chung tích luỹ, sinh viên được xếp hạng về học lực như sau:
 
 a) Hạng bình thường: Nếu điểm trung bình chung tích lũy đạt từ 2,00 trở lên.
