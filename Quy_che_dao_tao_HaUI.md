@@ -294,10 +294,11 @@ Việc bảo quản và lưu giữ các bài thi viết (trắc nghiệm hoặc 
 
 1. Đối với các học phần chỉ có lý thuyết hoặc có cả lý thuyết và thực hành
 1. Cách xác định điểm trung bình các điểm trong kỳ
-|   Stt | Các loại điểm bộ phận      |   Hệ số |
-|-------|----------------------------|---------|
-|     1 | Điểm kiểm tra thường xuyên |       1 |
-|     2 | Điểm thi giữa học phần     |       2 |
+|STT             | Các loại điểm bộ phận             |Hệ số      |
+|----------------|-----------------------------------|-----------|
+| 1              | Kiểm tra thường xuyên             | 1         |
+| 2              | Thi giữa học phần                 | 2         |
+
 
 - Điểm trung bình các điểm trong kỳ là trung bình cộng của các điểm kiểm tra thường xuyên, điểm thi giữa học phần theo hệ số của từng loại điểm. Điểm trung bình các điểm trong kỳ được làm tròn đến một chữ số thập phân.
 
