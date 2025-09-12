@@ -293,10 +293,18 @@ Việc bảo quản và lưu giữ các bài thi viết (trắc nghiệm hoặc 
 
 1. Đối với các học phần chỉ có lý thuyết hoặc có cả lý thuyết và thực hành
 1. Cách xác định điểm trung bình các điểm trong kỳ
-|STT             | Các loại điểm bộ phận             |Hệ số      |
-|----------------|-----------------------------------|-----------|
-| 1              | Kiểm tra thường xuyên             | 1         |
-| 2              | Thi giữa học phần                 | 2         |
+| Năm đào tạo                                       | Cao đẳng chính quy       | Đại học chính quy            |
+|---------------------------------------------------|--------------------------|------------------------------|
+| a) Sinh viên năm thứ nhất                         | KLTL ≤ 1/3 KLCT          | KLTL ≤ 1/4 KLCT              |
+| b) Sinh viên năm thứ hai                          | 1/3 KLCT < KLTL≤2/3 KLCT | 1/4 KLCT < KLTL ≤ 1/2 KLCT   |
+| c) Sinh viên năm thứ ba và năm cuối khóa cao đẳng | KLTL >2/3 KLCT           | 1/3 KLCT < KLTL≤3/4 KLCT     |
+| d) Sinh viên năm cuối khóa đại học                |                          | KLTL > 3/4 KLCT              |
+
+| STT | Các loại điểm bộ phận      | Hệ số |
+|-----|----------------------------|-------|
+| 1   | Kiểm tra thường xuyên      | 1     |
+| 2   | Thi giữa học phần          | 2     |
+
 
 
 - Điểm trung bình các điểm trong kỳ là trung bình cộng của các điểm kiểm tra thường xuyên, điểm thi giữa học phần theo hệ số của từng loại điểm. Điểm trung bình các điểm trong kỳ được làm tròn đến một chữ số thập phân.
