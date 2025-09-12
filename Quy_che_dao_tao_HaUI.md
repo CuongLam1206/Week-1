@@ -292,20 +292,12 @@ Việc bảo quản và lưu giữ các bài thi viết (trắc nghiệm hoặc 
 **Điều 22. Đánh giá học phần**
 
 1. Đối với các học phần chỉ có lý thuyết hoặc có cả lý thuyết và thực hành
-1. Cách xác định điểm trung bình các điểm trong kỳ
-| Năm đào tạo                                       | Cao đẳng chính quy       | Đại học chính quy            |
-|---------------------------------------------------|--------------------------|------------------------------|
-| a) Sinh viên năm thứ nhất                         | KLTL ≤ 1/3 KLCT          | KLTL ≤ 1/4 KLCT              |
-| b) Sinh viên năm thứ hai                          | 1/3 KLCT < KLTL≤2/3 KLCT | 1/4 KLCT < KLTL ≤ 1/2 KLCT   |
-| c) Sinh viên năm thứ ba và năm cuối khóa cao đẳng | KLTL >2/3 KLCT           | 1/3 KLCT < KLTL≤3/4 KLCT     |
-| d) Sinh viên năm cuối khóa đại học                |                          | KLTL > 3/4 KLCT              |
+a. Cách xác định điểm trung bình các điểm trong kỳ
 
 | STT | Các loại điểm bộ phận      | Hệ số |
 |-----|----------------------------|-------|
 | 1   | Kiểm tra thường xuyên      | 1     |
 | 2   | Thi giữa học phần          | 2     |
-
-
 
 - Điểm trung bình các điểm trong kỳ là trung bình cộng của các điểm kiểm tra thường xuyên, điểm thi giữa học phần theo hệ số của từng loại điểm. Điểm trung bình các điểm trong kỳ được làm tròn đến một chữ số thập phân.
 
@@ -315,13 +307,14 @@ Việc bảo quản và lưu giữ các bài thi viết (trắc nghiệm hoặc 
 
 Điểm thi giữa học phần: Áp dụng cho các học phần có từ 4 tín chỉ trở lên. Thời điểm thi và nội dung thi do giáo viên giảng dạy lựa chọn trên cơ sở tổng hợp nội dung từ đầu học phần. Thời gian làm bài thi giữa học phần từ 60 đến 90 phút. Điểm thi giữa học phần được làm tròn đến 0,5.
 
-1. Cách xác định điểm học phần
-|   STT | Loại điểm                         |   Hệ số |
-|-------|-----------------------------------|---------|
-|     1 | Điểm trung bình các điểm trong kỳ |       1 |
-|     2 | Điểm thi kết thúc học phần        |       2 |
-3. Điểm thi kết thúc học phần được làm tròn đến 0,5.
-4. Điểm học phần: Là trung bình cộng của điểm trung bình các điểm trong kỳ và điểm thi kết thúc học phần theo hệ số của từng loại điểm. Điểm học phần được tính theo thang điểm 10 (từ 0 ÷ 10), làm tròn đến một chữ số thập phân và chuyển qua thang điểm chữ để tính điểm trung bình chung.
+b. Cách xác định điểm học phần
+| STT | Loại điểm                         | Hệ số |
+|-----|-----------------------------------|-------|
+|  1  | Điểm trung bình các điểm trong kỳ |   1   |
+|  2  | Điểm thi kết thúc học phần        |   2   |
+
+-  Điểm thi kết thúc học phần được làm tròn đến 0,5.
+-  Điểm học phần: Là trung bình cộng của điểm trung bình các điểm trong kỳ và điểm thi kết thúc học phần theo hệ số của từng loại điểm. Điểm học phần được tính theo thang điểm 10 (từ 0 ÷ 10), làm tròn đến một chữ số thập phân và chuyển qua thang điểm chữ để tính điểm trung bình chung.
 2. Đối với các học phần thực hành: Điểm trung bình cộng của điểm các bài thực hành trong học kỳ được làm tròn đến một chữ số thập phân là điểm của học phần thực hành. Điểm đánh giá các bài thực hành làm tròn đến 0,5
 
 **Điều 23. Các loại điểm sử dụng để tính điểm TBC học kỳ, TBC tích lũy**
