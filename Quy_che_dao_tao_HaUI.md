@@ -11,8 +11,6 @@
 
 **Chương I: NHỮNG QUY ĐỊNH CHUNG**
 
-**NHỮNG QUY ĐỊNH CHUNG**
-
 **Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**
 
 1. Quy chế này quy định đào tạo đại học và cao đẳng hệ chính quy theo học chế  tín chỉ của trường Đại học Công nghiệp Hà Nội, bao gồm các nội dung về: tổ chức đào tạo; kiểm tra và thi học phần; xét và công nhận tốt nghiệp.
@@ -61,9 +59,7 @@ Kết quả học tập của sinh viên được đánh giá sau từng học k
 
 4. Điểm trung bình chung tích lũy là điểm trung bình có trọng số của các học phần   đạt điểm A, B, C hoặc D mà sinh viên đã tích lũy được, tính từ đầu khóa học cho tới thời điểm được xem xét vào lúc kết thúc mỗi học kỳ.
 
-**Chương II**
-
-**TỔ CHỨC ĐÀO TẠO**
+**Chương II: TỔ CHỨC ĐÀO TẠO**
 
 **Điều 6. Thời gian và kế hoạch đào tạo**
 
