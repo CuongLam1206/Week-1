@@ -24,9 +24,11 @@
 ## Điều 3. Học phần và Tín chỉ
 1. Học phần là khối lượng kiến thức tương đối trọn vẹn, thuận tiện cho sinh viên tích luỹ trong quá trình học tập. Các học phần có khối lượng từ 2 đến 5 tín chỉ, nội dung được bố trí giảng dạy trọn vẹn và phân bố đều trong một học kỳ trừ thực tập tốt nghiệp, khoá luận và đồ án tốt nghiệp. Kiến thức trong mỗi học phần phải gắn với một mức trình độ theo năm học thiết kế và được kết cấu riêng như một phần của môn học hoặc được kết cấu dưới dạng tổ hợp từ nhiều môn học. Mỗi học phần được ký hiệu bằng một mã số riêng của trường Đại học Công nghiệp Hà Nội.
 2. Có hai loại học phần: học phần bắt buộc và học phần tự chọn.
+
 a) Học phần bắt buộc là học phần chứa đựng những nội dung kiến thức chính yếu của mỗi chương trình và bắt buộc sinh viên phải tích lũy;
+
 b) Học phần tự chọn là học phần chứa đựng những nội dung kiến thức cần thiết, nhưng sinh viên được tự chọn theo hướng dẫn của trường nhằm đa dạng hoá hướng chuyên môn hoặc được tự chọn tuỳ ý để tích luỹ đủ số học phần quy định cho mỗi chương trình.
-3. Tín chỉ được sử dụng để tính khối lượng học tập của sinh viên. Một tín chỉ được quy định bằng 15 tiết học lý thuyết; 30 tiết thực hành, thí nghiệm hoặc thảo luận; 45 giờ thực tập tại cơ sở; 45 giờ làm tiểu luận, bài tập lớn hoặc đồ án, khoá luận tốt nghiệp (tương đương 1 tuần liên tục).
+4. Tín chỉ được sử dụng để tính khối lượng học tập của sinh viên. Một tín chỉ được quy định bằng 15 tiết học lý thuyết; 30 tiết thực hành, thí nghiệm hoặc thảo luận; 45 giờ thực tập tại cơ sở; 45 giờ làm tiểu luận, bài tập lớn hoặc đồ án, khoá luận tốt nghiệp (tương đương 1 tuần liên tục).
 - Đối với những học phần lý thuyết hoặc thực hành, thí nghiệm, để tiếp thu được một tín chỉ sinh viên phải dành ít nhất 30 giờ chuẩn bị cá nhân.
 - Số tín chỉ của từng học phần được ghi trong chương trình và trong Sổ tay sinh viên.
 
@@ -34,7 +36,7 @@ b) Học phần tự chọn là học phần chứa đựng những nội dung k
 Thời gian hoạt động giảng dạy của trường từ 6 giờ 30  đến 22 giờ hàng ngày trong tuần. Trưởng phòng đào tạo sắp xếp thời khoá biểu hàng ngày cho toàn trường căn cứ vào số lượng sinh viên, số lớp học và điều kiện cơ sở vật chất của trường.
 
 ## Điều 5. Đánh giá kết quả học tập
-Kết quả học tập của sinh viên được đánh giá sau từng học kỳ qua các tiêu chí sau:
+**Kết quả học tập của sinh viên được đánh giá sau từng học kỳ qua các tiêu chí sau:**
 1.Tổng số tín chỉ của các học phần mà sinh viên đăng ký học cho mỗi học kỳ (gọi tắt là khối lượng học tập đăng ký).
 2. Điểm trung bình chung học kỳ là điểm trung bình có trọng số của các học phần mà sinh viên đăng ký học trong học kỳ đó, với trọng số là số tín chỉ tương ứng của từng học phần.
 3. Khối lượng kiến thức tích lũy là khối lượng tính bằng tổng số tín chỉ của những học phần  đạt  điểm A, B, C hoặc D tính từ đầu khóa học.
