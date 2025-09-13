@@ -68,9 +68,9 @@ Các đối tượng được hưởng chính sách ưu tiên theo quy định t
 - Sinh viên được sắp xếp vào học các chương trình hoặc ngành đào tạo căn cứ vào nguyên vọng cá nhân và kết quả thi tuyển hoặc xét tuyển trong kỳ  tuyển sinh.
 
 ## Điều 9. Tổ chức lớp học
-a) Lớp học ổn định được tổ chức theo nhóm các học phần bắt buộc trong một chương trình đào tạo. Hệ thống cán bộ lớp, cán bộ đoàn và hội sinh viên được tổ chức theo các lớp ổn định và duy trì trong cả khoá học.
+1. Lớp học ổn định được tổ chức theo nhóm các học phần bắt buộc trong một chương trình đào tạo. Hệ thống cán bộ lớp, cán bộ đoàn và hội sinh viên được tổ chức theo các lớp ổn định và duy trì trong cả khoá học.
 
-b) Lớp học độc lập được tổ chức cho từng học phần khác dựa vào đăng ký học tập của sinh viên ở từng học kỳ.
+2. Lớp học độc lập được tổ chức cho từng học phần khác dựa vào đăng ký học tập của sinh viên ở từng học kỳ.
 
 - Số lượng sinh viên tối thiểu cho mỗi lớp học này được quy định như sau: 80 sinh viên đối với các học phần giáo dục đại cương, 60 sinh viên đối với những học phần ngành và 40 sinh viên đối với những học phần chuyên ngành. Nếu số lượng sinh viên đăng ký thấp hơn số lượng tối thiểu quy định thì lớp học sẽ không được tổ chức và sinh viên phải đăng ký chuyển sang học những học phần  khác, nếu chưa đảm bảo đủ quy định về khối lượng học tập tối thiểu cho mỗi học kỳ. Trường hợp đặc biệt do Hiệu trưởng quyết định.
 
@@ -78,25 +78,37 @@ b) Lớp học độc lập được tổ chức cho từng học phần khác d
 1. Đầu mỗi học kỳ, nhà trường thông báo danh sách các học phần bắt buộc và tự chọn dự kiến sẽ dạy, đề cương chi tiết, kế hoạch thi, kiểm tra kết thúc của từng học phần.
 2. Trừ một số trường hợp ngoại lệ được Hiệu trưởng cho phép, sinh viên bắt buộc phải tham dự đầy đủ các học phần ở lớp học ổn định của mình. Ngoài ra, căn cứ vào chương trình đào tạo, từng sinh viên còn phải đăng ký học bổ sung các học phần khác với phòng đào tạo.
 3. Trước thời điểm bắt đầu mỗi học kỳ, tùy theo khả năng và điều kiện học tập của bản thân, từng sinh viên phải đăng ký học các học phần dự định sẽ học trong học kỳ đó với phòng Đào tạo của trường. Trong mỗi học kỳ có hai đợt đăng ký: Đợt đăng ký chính và đợt đăng ký phụ
+
 a) Đợt đăng ký chính được thực hiện trước thời điểm bắt đầu học kỳ 2 tuần;
+
 b) Đợt đăng ký phụ được thực hiện trong 2 tuần đầu của học kỳ chính hoặc trong tuần đầu của học kỳ phụ cho những sinh viên muốn đăng ký bổ sung hoặc đăng ký học đổi sang học phần khác khi không có lớp.
-4. Khối lượng học tập tối thiểu mà mỗi sinh viên phải đăng ký trong mỗi học kỳ chính được quy định như sau:
+
+5. Khối lượng học tập tối thiểu mà mỗi sinh viên phải đăng ký trong mỗi học kỳ chính được quy định như sau:
+
 a) 15 tín chỉ cho mỗi học kỳ, trừ học kỳ cuối khóa học, đối với những sinh viên được xếp hạng học lực bình thường;
+
 b) 12 tín chỉ cho mỗi học kỳ, trừ học kỳ cuối khóa học, đối với những sinh viên đang trong thời gian bị xếp hạng học lực yếu.
+
 c) Không quy định khối lượng học tập tối thiểu đối với sinh viên ở kỳ học phụ.
+
 d) Các trường hợp đặc biệt do Hiệu trưởng quyết định.
-5. Sinh viên đang trong thời gian bị xếp hạng học lực yếu chỉ được đăng ký khối lượng học tập không quá 25 tín chỉ cho mỗi học kỳ *.* Không hạn chế khối lượng tối đa đăng ký học tập của những sinh viên xếp hạng học lực bình thường.
-6. Việc đăng ký các học phần sẽ học cho từng học kỳ phải bảo đảm điều kiện tiên quyết của từng học phần và trình tự học tập của mỗi chương trình cụ thể.
-7. Phòng đào tạo tổ chức cho sinh viên đăng ký khối lượng học tập ở mỗi học kỳ. Khối lượng đăng ký học tập của sinh viên được ghi vào phiếu học tập. Phòng đào tạo theo dõi và lưu giữ kết quả đăng ký học tập của sinh viên.
+
+7. Sinh viên đang trong thời gian bị xếp hạng học lực yếu chỉ được đăng ký khối lượng học tập không quá 25 tín chỉ cho mỗi học kỳ *.* Không hạn chế khối lượng tối đa đăng ký học tập của những sinh viên xếp hạng học lực bình thường.
+8. Việc đăng ký các học phần sẽ học cho từng học kỳ phải bảo đảm điều kiện tiên quyết của từng học phần và trình tự học tập của mỗi chương trình cụ thể.
+9. Phòng đào tạo tổ chức cho sinh viên đăng ký khối lượng học tập ở mỗi học kỳ. Khối lượng đăng ký học tập của sinh viên được ghi vào phiếu học tập. Phòng đào tạo theo dõi và lưu giữ kết quả đăng ký học tập của sinh viên.
 
 ## Điều 11. Rút bớt học phần đã đăng ký
 1. Hết thời gian đăng ký theo quy định, sinh viên muốn rút bớt học phần đã đăng ký sẽ thực hiện như sau: Trong thời gian từ tuần thứ 6 đến hết tuần thứ 8 của học kỳ chính hoặc từ tuần thứ 2 đến hết tuần thứ 3 của học kỳ phụ, sinh viên viết đơn xin rút bớt học phần (có xác nhận của CVHT) và gửi về Phòng Đào tạo. Nếu được chấp nhận, sinh viên sẽ được hủy kết quả đăng ký của các học phần xin rút nhưng không được trả lại kinh phí đào tạo của các học phần được rút.
 -  Ngoài thời hạn nêu trên, khối lượng học tập đã đăng ký thành công trong học kỳ vẫn được giữ nguyên. Sinh viên không đi học được coi là tự ý bỏ học, phải nhận điểm F là điểm học phần và phải đóng học phí theo quy định.
 - Danh sách sinh viên được chấp nhận cho rút học phần được công bố trong tuần thứ 9 của học kỳ chính hoặc tuần thứ 4 của học kỳ phụ trên trang web đào tạo (http://dttc.haui.edu.vn).
 2. Điều kiện rút bớt các học phần đã đăng ký:
+  
 a) Sinh viên tự viết đơn theo mẫu gửi phòng đào tạo;
+
 b) Được cố vấn học tập chấp thuận;
+
 c) Không vi phạm khoản 4 Điều 10 của Quy chế này.
+
 - Sinh viên được phép thôi học đối với học phần xin rút bớt sau khi kết quả xin rút được nhà trường chấp thuận.
 
 ## Điều 12. Đăng ký học lại hoặc học đổi
@@ -120,27 +132,42 @@ c) Không vi phạm khoản 4 Điều 10 của Quy chế này.
 | d) Sinh viên năm cuối khóa đại học                |                          | KLTL > 3/4 KLCT              |
 
 2. Sau mỗi học kỳ, căn cứ vào điểm trung bình chung tích luỹ, sinh viên được xếp hạng về học lực như sau:
+   
 a) Hạng bình thường: Nếu điểm trung bình chung tích lũy đạt từ 2,00 trở lên.
+
 b) Hạng yếu: Nếu điểm trung bình chung tích lũy đạt dưới 2,00 nhưng chưa rơi vào trường hợp thôi học
-3. Kết quả học tập trong học kỳ phụ sẽ được tính vào kết quả học tập học kỳ chính tổ chức ngay trước học kỳ phụ  hoặc học kỳ chính tổ chức song song với học kỳ phụ để xếp hạng sinh viên về học lực.
+
+5. Kết quả học tập trong học kỳ phụ sẽ được tính vào kết quả học tập học kỳ chính tổ chức ngay trước học kỳ phụ  hoặc học kỳ chính tổ chức song song với học kỳ phụ để xếp hạng sinh viên về học lực.
 
 ## Điều 15. Nghỉ học tạm thời
 1. Sinh viên được quyền viết đơn gửi Hiệu trưởng thông qua phòng đào tạo xin nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau:
+   
 a) Được điều động vào các lực lượng vũ trang;
+
 b) Bị ốm hoặc tai nạn phải điều trị thời gian dài, nhưng phải có giấy xác nhận của cơ quan y tế có thẩm quyền;
+
 c) Vì nhu cầu cá nhân. Trường hợp này, sinh viên phải học ít nhất một học kỳ ở trường, không rơi vào các trường hợp bị buộc thôi học quy định tại Điều 16 của Quy chế này và phải đạt điểm trung bình chung tích lũy không dưới 2,00. Thời gian nghỉ học tạm thời vì nhu cầu cá nhân được tính vào thời gian học chính thức quy định tại khoản 3 Điều 6 của Quy chế này.
-2. Sinh viên nghỉ học tạm thời, khi muốn trở lại học tiếp tại trường, phải viết đơn gửi Hiệu trưởng ít nhất một tháng trước khi bắt đầu học kỳ mới.
+
+3. Sinh viên nghỉ học tạm thời, khi muốn trở lại học tiếp tại trường, phải viết đơn gửi Hiệu trưởng ít nhất một tháng trước khi bắt đầu học kỳ mới.
 
 ## Điều 16. Cảnh báo kết quả học tập, buộc thôi học
 1. Cảnh báo kết quả học tập được thực hiện theo từng học kỳ, nhằm giúp cho sinh viên có kết quả học tập kém biết và lập phương án học tập thích hợp để có thể tốt nghiệp trong thời gian được phép hoàn thành chương trình quy định tại khoản 3 Điều 6. Sinh viên thuộc diện cảnh báo nếu rơi vào một trong các trường hợp sau:
-1. Điểm trung bình chung học kỳ đạt dưới 0,80 đối với học kỳ đầu của khóa học, dưới 1,00 đối với các học kỳ tiếp theo;
+
+a) Điểm trung bình chung học kỳ đạt dưới 0,80 đối với học kỳ đầu của khóa học, dưới 1,00 đối với các học kỳ tiếp theo;
+
 b) Điểm trung bình chung tích luỹ đạt dưới 1,20 đối với sinh viên năm thứ nhất, dưới 1,40 đối với sinh viên năm thứ hai, dưới 1,60 đối với sinh viên năm thứ ba hoặc dưới 1,80 đối với sinh viên các năm tiếp theo và cuối khoá.
-2. Sau mỗi học kỳ, sinh viên bị buộc thôi học nếu rơi vào một trong những trường hợp sau đây:
+
+3. Sau mỗi học kỳ, sinh viên bị buộc thôi học nếu rơi vào một trong những trường hợp sau đây:
+   
 a) Lần thứ 2 liên tiếp có kết quả học tập rơi vào các trường hợp thuộc mục a hoặc b khoản 1 Điều này.
+
 b) Lần thứ 3 có kết quả học tập rơi vào các trường hợp thuộc mục a hoặc b khoản 1 Điều này.
+
 c) Vượt quá thời gian tối đa được phép học tại trường quy định tại khoản 3 Điều 6 của Quy chế này;
+
 d) Bị kỷ luật lần thứ hai vì lý do đi thi hộ hoặc nhờ người thi hộ theo quy định tại khoản 2 Điều 31 của Quy chế này hoặc bị kỷ luật ở mức xoá tên khỏi danh sách sinh viên của trường.
-3. Chậm nhất là một tháng sau khi sinh viên có quyết định buộc thôi học, nhà trường sẽ thông báo trả về địa phương nơi sinh viên có hộ khẩu thường trú. Những sinh viên thuộc diện bị buộc thôi học quy định tại mục a,b,c khoản 2 của Điều này được quyền xin xét chuyển qua các chương trình đào tạo ở trình độ thấp hơn hoặc chương trình đào tạo vừa làm vừa học tương ứng và được bảo lưu một phần kết quả học tập ở chương trình cũ. Hiệu trưởng xem xét quyết định cho chuyển chương trình đào tạo và cho bảo lưu kết quả học tập đối với từng trường hợp cụ thể. Thời hạn nhận đơn xin xét chuyển xuống học ở trình độ đào tạo thấp hơn hoặc chuyển qua chương trình đào tạo vừa làm vừa học tương ứng không quá 12 tháng kể từ  khi có quyết định buộc thôi học. Nhà trường sẽ không giải quyết các trường hợp nộp đơn muộn.
+
+5. Chậm nhất là một tháng sau khi sinh viên có quyết định buộc thôi học, nhà trường sẽ thông báo trả về địa phương nơi sinh viên có hộ khẩu thường trú. Những sinh viên thuộc diện bị buộc thôi học quy định tại mục a,b,c khoản 2 của Điều này được quyền xin xét chuyển qua các chương trình đào tạo ở trình độ thấp hơn hoặc chương trình đào tạo vừa làm vừa học tương ứng và được bảo lưu một phần kết quả học tập ở chương trình cũ. Hiệu trưởng xem xét quyết định cho chuyển chương trình đào tạo và cho bảo lưu kết quả học tập đối với từng trường hợp cụ thể. Thời hạn nhận đơn xin xét chuyển xuống học ở trình độ đào tạo thấp hơn hoặc chuyển qua chương trình đào tạo vừa làm vừa học tương ứng không quá 12 tháng kể từ  khi có quyết định buộc thôi học. Nhà trường sẽ không giải quyết các trường hợp nộp đơn muộn.
 
 ## Điều 17. Học cùng lúc hai chương trình
 1. Sinh viên có thể đăng ký học thêm một chương trình thứ hai để khi tốt nghiệp được cấp hai bằng.
@@ -151,16 +178,27 @@ d) Bị kỷ luật lần thứ hai vì lý do đi thi hộ hoặc nhờ ngườ
 
 ## Điều 18.  Sinh viên chuyển trường
 1. Sinh viên của các cơ sở giáo dục đại học khác được xét chuyển vào trường Đại học Công nghiệp Hà Nội nếu thoả mãn các điều kiện sau đây:
+   
 a) Có cùng ngành hoặc thuộc cùng nhóm ngành với ngành đào tạo tại trường Đại học Công nghiệp Hà Nội;
+
 b) Được Hiệu trưởng trường xin chuyển đi chấp nhận;
+
 c) Không thuộc một trong các trường hợp không được phép chuyển trường quy định tại khoản 2 Điều này.
+
 2. Sinh viên không được phép chuyển đến trường Đại học Công nghiệp Hà Nội  trong các trường hợp sau:
+   
 a) Sinh viên đã tham dự kỳ thi tuyển sinh theo đề thi chung vào trường Đại học Công nghiệp Hà Nội nhưng không trúng tuyển hoặc có kết quả thi thấp hơn điểm trúng tuyển vào ngành xin học của trường Đại học Công nghiệp Hà Nội.
+
 b) Sinh viên năm thứ nhất và năm cuối khóa;
+
 c) Sinh viên đang trong thời gian bị kỷ luật từ cảnh cáo trở lên.
+
 3. Thủ tục chuyển đến trường:
+   
 a) Sinh viên chuyển đến phải có hồ sơ xin chuyển trường theo quy định của trường xin chuyển đi.
+
 b) Phòng đào tạo xử lý hồ sơ, đề xuất Hiệu trưởng quyết định tiếp nhận hoặc không tiếp nhận; quyết định việc học tập tiếp tục của sinh viên, công nhận các học phần mà sinh viên chuyển đến được chuyển đổi kết quả và số học phần phải học bổ sung trên cơ sở so sánh chương trình ở trường sinh viên xin chuyển đi và chương trình hiện tại của trường Đại học Công nghiệp Hà Nội.
+
 4. Sinh viên chuyển đi khỏi trường Đại học Công nghiệp Hà Nội phải làm đầy đủ các hồ sơ xin chuyển trường theo quy định của trường.
 
 # Chương III: KIỂM TRA VÀ THI  KẾT THÚC HỌC PHẦN
