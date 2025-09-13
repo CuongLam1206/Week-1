@@ -50,7 +50,9 @@ Thời gian hoạt động giảng dạy của trường từ 6 giờ 30  đến
 a) Khoá học là thời gian thiết kế để sinh viên hoàn thành một chương trình cụ thể. Tuỳ thuộc chương trình, khoá học tại trường Đại học Công nghiệp Hà Nội được quy định như sau:
 - Đào tạo trình độ cao đẳng được thực hiện 3 năm học đối với người có bằng tốt nghiệp trung học phổ thông hoặc tương đương; 1,5 năm  học đối với người có bằng tốt nghiệp trung cấp chuyên nghiệp cùng ngành đào tạo;
 - Đào tạo trình độ đại học được thực hiện 4 năm học đối với người có bằng tốt nghiệp trung học phổ thông hoặc tương đương; 2,5 năm học đối với người có bằng tốt nghiệp trung cấp chuyên nghiệp cùng ngành đào tạo; 1,5 năm học đối với người có bằng tốt nghiệp cao đẳng cùng ngành đào tạo.
+
 b) Năm học đầu tiên có 2 học kỳ chính và 1 học kỳ phụ, các năm học tiếp theo có 2 học kỳ chính, 2 học kỳ phụ. Mỗi học kỳ chính có 15 tuần thực học và 3 tuần thi. Học kỳ phụ có từ 4 đến 8 tuần thực học và 1 tuần thi. Học kỳ phụ để tạo điều kiện cho sinh viên được học lại, học bù hoặc học vượt.
+
 2. Căn cứ vào khối lượng và nội dung kiến thức tối thiểu quy định cho các chương trình, Trưởng phòng đào tạo dự kiến phân bổ số học phần cho từng năm học, từng học kỳ.
 3. Thời gian tối đa hoàn thành chương trình bằng 2 lần thời gian thiết kế cho chương trình quy định tại khoản 1 của Điều này.
 Các đối tượng được hưởng chính sách ưu tiên theo quy định tại Quy chế tuyển sinh đại học, cao đẳng hệ chính quy không bị hạn chế về thời gian tối đa để hoàn thành chương trình.
