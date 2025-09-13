@@ -40,8 +40,11 @@ Thời gian hoạt động giảng dạy của trường từ 6 giờ 30  đến
 **Kết quả học tập của sinh viên được đánh giá sau từng học kỳ qua các tiêu chí sau:**
 
 1.Tổng số tín chỉ của các học phần mà sinh viên đăng ký học cho mỗi học kỳ (gọi tắt là khối lượng học tập đăng ký).
+
 2. Điểm trung bình chung học kỳ là điểm trung bình có trọng số của các học phần mà sinh viên đăng ký học trong học kỳ đó, với trọng số là số tín chỉ tương ứng của từng học phần.
+
 3. Khối lượng kiến thức tích lũy là khối lượng tính bằng tổng số tín chỉ của những học phần  đạt  điểm A, B, C hoặc D tính từ đầu khóa học.
+
 4. Điểm trung bình chung tích lũy là điểm trung bình có trọng số của các học phần   đạt điểm A, B, C hoặc D mà sinh viên đã tích lũy được, tính từ đầu khóa học cho tới thời điểm được xem xét vào lúc kết thúc mỗi học kỳ.
 
 # Chương II: TỔ CHỨC ĐÀO TẠO
