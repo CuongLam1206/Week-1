@@ -9,7 +9,7 @@
 
 *(Ban hành kèm theo Quyết định số* ***530*** */QĐ-ĐHCN ngày  15 tháng 02 năm 2013 của Hiệu trưởng trường Đại học Công nghiệp Hà Nội)*
 
-**Chương I**
+**Chương I: NHỮNG QUY ĐỊNH CHUNG**
 
 **NHỮNG QUY ĐỊNH CHUNG**
 
