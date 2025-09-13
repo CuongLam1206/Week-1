@@ -12,51 +12,32 @@
 # Chương I: NHỮNG QUY ĐỊNH CHUNG
 
 ## Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
-
 1. Quy chế này quy định đào tạo đại học và cao đẳng hệ chính quy theo học chế  tín chỉ của trường Đại học Công nghiệp Hà Nội, bao gồm các nội dung về: tổ chức đào tạo; kiểm tra và thi học phần; xét và công nhận tốt nghiệp.
-
 2. Quy chế này áp dụng đối với sinh viên hệ chính quy các trình độ đại học và cao đẳng của trường Đại học Công nghiệp Hà Nội từ học kỳ 2 năm học 2012-2013.
 
 ## Điều 2. Chương trình đào tạo
-
 1. Chương trình đào tạo (sau đây gọi tắt là chương trình) thể hiện rõ: trình độ đào tạo; đối tượng đào tạo, điều kiện nhập học và điều kiện tốt nghiệp; mục tiêu đào tạo, chuẩn kiến thức, kỹ năng của người học khi tốt nghiệp; khối lượng kiến thức lý thuyết, thực hành, thực tập; kế hoạch đào tạo theo thời gian thiết kế; hình thức đào tạo; hình thức đánh giá kết quả học tập; các điều kiện thực hiện chương trình.
-
 2. Chương trình đào tạo được các khoa trực thuộc trường Đại học Công nghiệp Hà Nội xây dựng. Mỗi chương trình gắn với một ngành (kiểu đơn ngành) hoặc với một vài ngành (kiểu song ngành, kiểu ngành chính - ngành phụ, kiểu 2 văn bằng) và được cấu trúc từ các học phần thuộc hai khối kiến thức: giáo dục đại cương và giáo dục chuyên nghiệp.
-
 3. Đề cương chi tiết của từng học phần phải thể hiện rõ số lượng tín chỉ, điều kiện tiên quyết, nội dung lý thuyết và thực hành, phương pháp giảng dạy, hình thức đánh giá học phần, giáo trình, tài liệu tham khảo và điều kiện thí nghiệm, thực hành, thực tập phục vụ học phần.
-
 4. Hiệu trưởng trường Đại học Công nghiệp Hà Nội ký ban hành các chương trình đào tạo để triển khai thực hiện trong trường, với khối lượng của mỗi chương trình đào tạo không dưới 120 tín chỉ đối với khoá đại học 4 năm; 90 tín chỉ đối với khoá cao đẳng 3 năm.
 
 ## Điều 3. Học phần và Tín chỉ
-
 1. Học phần là khối lượng kiến thức tương đối trọn vẹn, thuận tiện cho sinh viên tích luỹ trong quá trình học tập. Các học phần có khối lượng từ 2 đến 5 tín chỉ, nội dung được bố trí giảng dạy trọn vẹn và phân bố đều trong một học kỳ trừ thực tập tốt nghiệp, khoá luận và đồ án tốt nghiệp. Kiến thức trong mỗi học phần phải gắn với một mức trình độ theo năm học thiết kế và được kết cấu riêng như một phần của môn học hoặc được kết cấu dưới dạng tổ hợp từ nhiều môn học. Mỗi học phần được ký hiệu bằng một mã số riêng của trường Đại học Công nghiệp Hà Nội.
-
 2. Có hai loại học phần: học phần bắt buộc và học phần tự chọn.
-
 a) Học phần bắt buộc là học phần chứa đựng những nội dung kiến thức chính yếu của mỗi chương trình và bắt buộc sinh viên phải tích lũy;
-
 b) Học phần tự chọn là học phần chứa đựng những nội dung kiến thức cần thiết, nhưng sinh viên được tự chọn theo hướng dẫn của trường nhằm đa dạng hoá hướng chuyên môn hoặc được tự chọn tuỳ ý để tích luỹ đủ số học phần quy định cho mỗi chương trình.
-
 3. Tín chỉ được sử dụng để tính khối lượng học tập của sinh viên. Một tín chỉ được quy định bằng 15 tiết học lý thuyết; 30 tiết thực hành, thí nghiệm hoặc thảo luận; 45 giờ thực tập tại cơ sở; 45 giờ làm tiểu luận, bài tập lớn hoặc đồ án, khoá luận tốt nghiệp (tương đương 1 tuần liên tục).
-
-Đối với những học phần lý thuyết hoặc thực hành, thí nghiệm, để tiếp thu được một tín chỉ sinh viên phải dành ít nhất 30 giờ chuẩn bị cá nhân.
-
-Số tín chỉ của từng học phần được ghi trong chương trình và trong Sổ tay sinh viên.
+- Đối với những học phần lý thuyết hoặc thực hành, thí nghiệm, để tiếp thu được một tín chỉ sinh viên phải dành ít nhất 30 giờ chuẩn bị cá nhân.
+- Số tín chỉ của từng học phần được ghi trong chương trình và trong Sổ tay sinh viên.
 
 ## Điều 4. Thời gian hoạt động giảng dạy
-
 Thời gian hoạt động giảng dạy của trường từ 6 giờ 30  đến 22 giờ hàng ngày trong tuần. Trưởng phòng đào tạo sắp xếp thời khoá biểu hàng ngày cho toàn trường căn cứ vào số lượng sinh viên, số lớp học và điều kiện cơ sở vật chất của trường.
 
 ## Điều 5. Đánh giá kết quả học tập
-
 Kết quả học tập của sinh viên được đánh giá sau từng học kỳ qua các tiêu chí sau:
-
 1.Tổng số tín chỉ của các học phần mà sinh viên đăng ký học cho mỗi học kỳ (gọi tắt là khối lượng học tập đăng ký).
-
 2. Điểm trung bình chung học kỳ là điểm trung bình có trọng số của các học phần mà sinh viên đăng ký học trong học kỳ đó, với trọng số là số tín chỉ tương ứng của từng học phần.
-
 3. Khối lượng kiến thức tích lũy là khối lượng tính bằng tổng số tín chỉ của những học phần  đạt  điểm A, B, C hoặc D tính từ đầu khóa học.
-
 4. Điểm trung bình chung tích lũy là điểm trung bình có trọng số của các học phần   đạt điểm A, B, C hoặc D mà sinh viên đã tích lũy được, tính từ đầu khóa học cho tới thời điểm được xem xét vào lúc kết thúc mỗi học kỳ.
 
 # Chương II: TỔ CHỨC ĐÀO TẠO
