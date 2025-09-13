@@ -13,9 +13,9 @@
 
 ## Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**1. Quy chế này quy định đào tạo đại học và cao đẳng hệ chính quy theo học chế  tín chỉ của trường Đại học Công nghiệp Hà Nội, bao gồm các nội dung về: tổ chức đào tạo; kiểm tra và thi học phần; xét và công nhận tốt nghiệp.**
+1. Quy chế này quy định đào tạo đại học và cao đẳng hệ chính quy theo học chế  tín chỉ của trường Đại học Công nghiệp Hà Nội, bao gồm các nội dung về: tổ chức đào tạo; kiểm tra và thi học phần; xét và công nhận tốt nghiệp.
 
-**2. Quy chế này áp dụng đối với sinh viên hệ chính quy các trình độ đại học và cao đẳng của trường Đại học Công nghiệp Hà Nội từ học kỳ 2 năm học 2012-2013.**
+2. Quy chế này áp dụng đối với sinh viên hệ chính quy các trình độ đại học và cao đẳng của trường Đại học Công nghiệp Hà Nội từ học kỳ 2 năm học 2012-2013.
 
 ## Điều 2. Chương trình đào tạo
 
