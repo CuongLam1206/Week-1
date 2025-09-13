@@ -9,15 +9,15 @@
 
 *(Ban hành kèm theo Quyết định số* ***530*** */QĐ-ĐHCN ngày  15 tháng 02 năm 2013 của Hiệu trưởng trường Đại học Công nghiệp Hà Nội)*
 
-**Chương I: NHỮNG QUY ĐỊNH CHUNG**
+# Chương I: NHỮNG QUY ĐỊNH CHUNG
 
-**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**
+## Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
 1. Quy chế này quy định đào tạo đại học và cao đẳng hệ chính quy theo học chế  tín chỉ của trường Đại học Công nghiệp Hà Nội, bao gồm các nội dung về: tổ chức đào tạo; kiểm tra và thi học phần; xét và công nhận tốt nghiệp.
 
 2. Quy chế này áp dụng đối với sinh viên hệ chính quy các trình độ đại học và cao đẳng của trường Đại học Công nghiệp Hà Nội từ học kỳ 2 năm học 2012-2013.
 
-**Điều 2. Chương trình đào tạo**
+## Điều 2. Chương trình đào tạo
 
 1. Chương trình đào tạo (sau đây gọi tắt là chương trình) thể hiện rõ: trình độ đào tạo; đối tượng đào tạo, điều kiện nhập học và điều kiện tốt nghiệp; mục tiêu đào tạo, chuẩn kiến thức, kỹ năng của người học khi tốt nghiệp; khối lượng kiến thức lý thuyết, thực hành, thực tập; kế hoạch đào tạo theo thời gian thiết kế; hình thức đào tạo; hình thức đánh giá kết quả học tập; các điều kiện thực hiện chương trình.
 
@@ -27,7 +27,7 @@
 
 4. Hiệu trưởng trường Đại học Công nghiệp Hà Nội ký ban hành các chương trình đào tạo để triển khai thực hiện trong trường, với khối lượng của mỗi chương trình đào tạo không dưới 120 tín chỉ đối với khoá đại học 4 năm; 90 tín chỉ đối với khoá cao đẳng 3 năm.
 
-**Điều 3. Học phần và Tín chỉ**
+## Điều 3. Học phần và Tín chỉ
 
 1. Học phần là khối lượng kiến thức tương đối trọn vẹn, thuận tiện cho sinh viên tích luỹ trong quá trình học tập. Các học phần có khối lượng từ 2 đến 5 tín chỉ, nội dung được bố trí giảng dạy trọn vẹn và phân bố đều trong một học kỳ trừ thực tập tốt nghiệp, khoá luận và đồ án tốt nghiệp. Kiến thức trong mỗi học phần phải gắn với một mức trình độ theo năm học thiết kế và được kết cấu riêng như một phần của môn học hoặc được kết cấu dưới dạng tổ hợp từ nhiều môn học. Mỗi học phần được ký hiệu bằng một mã số riêng của trường Đại học Công nghiệp Hà Nội.
 
@@ -43,11 +43,11 @@ b) Học phần tự chọn là học phần chứa đựng những nội dung k
 
 Số tín chỉ của từng học phần được ghi trong chương trình và trong Sổ tay sinh viên.
 
-**Điều 4. Thời gian hoạt động giảng dạy**
+## Điều 4. Thời gian hoạt động giảng dạy
 
 Thời gian hoạt động giảng dạy của trường từ 6 giờ 30  đến 22 giờ hàng ngày trong tuần. Trưởng phòng đào tạo sắp xếp thời khoá biểu hàng ngày cho toàn trường căn cứ vào số lượng sinh viên, số lớp học và điều kiện cơ sở vật chất của trường.
 
-**Điều 5. Đánh giá kết quả học tập**
+## Điều 5. Đánh giá kết quả học tập
 
 Kết quả học tập của sinh viên được đánh giá sau từng học kỳ qua các tiêu chí sau:
 
@@ -59,9 +59,9 @@ Kết quả học tập của sinh viên được đánh giá sau từng học k
 
 4. Điểm trung bình chung tích lũy là điểm trung bình có trọng số của các học phần   đạt điểm A, B, C hoặc D mà sinh viên đã tích lũy được, tính từ đầu khóa học cho tới thời điểm được xem xét vào lúc kết thúc mỗi học kỳ.
 
-**Chương II: TỔ CHỨC ĐÀO TẠO**
+# Chương II: TỔ CHỨC ĐÀO TẠO
 
-**Điều 6. Thời gian và kế hoạch đào tạo**
+## Điều 6. Thời gian và kế hoạch đào tạo
 
 1. Trường Đại học Công nghiệp Hà Nội tổ chức đào tạo theo khoá học, năm học và học kỳ.
 
@@ -79,7 +79,7 @@ b) Năm học đầu tiên có 2 học kỳ chính và 1 học kỳ phụ, các 
 
 Các đối tượng được hưởng chính sách ưu tiên theo quy định tại Quy chế tuyển sinh đại học, cao đẳng hệ chính quy không bị hạn chế về thời gian tối đa để hoàn thành chương trình.
 
-**Điều 7. Đăng ký nhập học**
+## Điều 7. Đăng ký nhập học
 
 1. Khi đăng ký vào học hệ chính quy theo học chế tín chỉ tại trường sinh viên phải nộp cho phòng đào tạo các giấy tờ theo quy định tại Quy chế tuyển sinh đại học, cao đẳng hệ chính quy hiện hành. Tất cả giấy tờ trên phải được xếp vào túi hồ sơ của từng cá nhân do phòng đào tạo của trường quản lý.
 
@@ -89,11 +89,11 @@ Các đối tượng được hưởng chính sách ưu tiên theo quy định t
 
 4. Sinh viên nhập học được nhà trường cung cấp đầy đủ các thông tin về mục tiêu, nội dung và dự kiến kế hoạch học tập của các chương trình, quy chế đào tạo, nghĩa vụ và quyền lợi của sinh viên.
 
-**Điều 8. Sắp xếp sinh viên vào học các chương trình hoặc ngành đào tạo**
+## Điều 8. Sắp xếp sinh viên vào học các chương trình hoặc ngành đào tạo
 
 Sinh viên được sắp xếp vào học các chương trình hoặc ngành đào tạo căn cứ vào nguyên vọng cá nhân và kết quả thi tuyển hoặc xét tuyển trong kỳ  tuyển sinh.
 
-**Điều 9. Tổ chức lớp học**
+## Điều 9. Tổ chức lớp học
 
 a) Lớp học ổn định được tổ chức theo nhóm các học phần bắt buộc trong một chương trình đào tạo. Hệ thống cán bộ lớp, cán bộ đoàn và hội sinh viên được tổ chức theo các lớp ổn định và duy trì trong cả khoá học.
 
@@ -101,7 +101,7 @@ b) Lớp học độc lập được tổ chức cho từng học phần khác d
 
 - Số lượng sinh viên tối thiểu cho mỗi lớp học này được quy định như sau: 80 sinh viên đối với các học phần giáo dục đại cương, 60 sinh viên đối với những học phần ngành và 40 sinh viên đối với những học phần chuyên ngành. Nếu số lượng sinh viên đăng ký thấp hơn số lượng tối thiểu quy định thì lớp học sẽ không được tổ chức và sinh viên phải đăng ký chuyển sang học những học phần  khác, nếu chưa đảm bảo đủ quy định về khối lượng học tập tối thiểu cho mỗi học kỳ. Trường hợp đặc biệt do Hiệu trưởng quyết định.
 
-**Điều 10. Đăng ký khối lượng học tập**
+## Điều 10. Đăng ký khối lượng học tập
 
 1. Đầu mỗi học kỳ, nhà trường thông báo danh sách các học phần bắt buộc và tự chọn dự kiến sẽ dạy, đề cương chi tiết, kế hoạch thi, kiểm tra kết thúc của từng học phần.
 
@@ -129,7 +129,7 @@ d) Các trường hợp đặc biệt do Hiệu trưởng quyết định.
 
 7. Phòng đào tạo tổ chức cho sinh viên đăng ký khối lượng học tập ở mỗi học kỳ. Khối lượng đăng ký học tập của sinh viên được ghi vào phiếu học tập. Phòng đào tạo theo dõi và lưu giữ kết quả đăng ký học tập của sinh viên.
 
-**Điều 11. Rút bớt học phần đã đăng ký**
+## Điều 11. Rút bớt học phần đã đăng ký
 
 1. Hết thời gian đăng ký theo quy định, sinh viên muốn rút bớt học phần đã đăng ký sẽ thực hiện như sau: Trong thời gian từ tuần thứ 6 đến hết tuần thứ 8 của học kỳ chính hoặc từ tuần thứ 2 đến hết tuần thứ 3 của học kỳ phụ, sinh viên viết đơn xin rút bớt học phần (có xác nhận của CVHT) và gửi về Phòng Đào tạo. Nếu được chấp nhận, sinh viên sẽ được hủy kết quả đăng ký của các học phần xin rút nhưng không được trả lại kinh phí đào tạo của các học phần được rút.
 
@@ -147,7 +147,7 @@ c) Không vi phạm khoản 4 Điều 10 của Quy chế này.
 
 Sinh viên được phép thôi học đối với học phần xin rút bớt sau khi kết quả xin rút được nhà trường chấp thuận.
 
-**Điều 12. Đăng ký học lại hoặc học đổi**
+## Điều 12. Đăng ký học lại hoặc học đổi
 
 1. Sinh viên có học phần bắt buộc bị điểm F phải đăng ký học lại học phần đó ở một trong các học kỳ tiếp theo cho đến khi đạt điểm A, B, C hoặc D.
 
@@ -159,11 +159,11 @@ Sinh viên được phép thôi học đối với học phần xin rút bớt s
 
 5.  Thủ tục đăng ký học, số lần đánh giá bộ phận và thi kết thúc học phần đối với học phần học lại, học đổi cũng giống như đối với một học phần mới.
 
-**Điều 13. Nghỉ ốm**
+## Điều 13. Nghỉ ốm
 
 Sinh viên xin nghỉ ốm trong quá trình học hoặc trong đợt thi, phải viết đơn xin phép gửi trưởng khoa quản lý sinh viên trong vòng một tuần kể từ ngày ốm, kèm theo giấy chứng nhận của cơ quan y tế trường, hoặc y tế địa phương, hoặc của bệnh viện.
 
-**Điều 14. Xếp hạng năm đào tạo và học lực**
+## Điều 14. Xếp hạng năm đào tạo và học lực
 
 1. Sau mỗi học kỳ, căn cứ vào khối lượng kiến thức tích lũy (KLTL) so với khối lượng kiến thức quy định cho chương trình đào tạo (KLCT), sinh viên được xếp hạng năm đào tạo như sau:
 
@@ -182,7 +182,7 @@ b) Hạng yếu: Nếu điểm trung bình chung tích lũy đạt dưới 2,00 
 
 3 **.** Kết quả học tập trong học kỳ phụ sẽ được tính vào kết quả học tập học kỳ chính tổ chức ngay trước học kỳ phụ  hoặc học kỳ chính tổ chức song song với học kỳ phụ để xếp hạng sinh viên về học lực.
 
-**Điều 15. Nghỉ học tạm thời**
+## Điều 15. Nghỉ học tạm thời
 
 1. Sinh viên được quyền viết đơn gửi Hiệu trưởng thông qua phòng đào tạo xin nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau:
 
@@ -194,7 +194,7 @@ c) Vì nhu cầu cá nhân. Trường hợp này, sinh viên phải học ít nh
 
 2. Sinh viên nghỉ học tạm thời, khi muốn trở lại học tiếp tại trường, phải viết đơn gửi Hiệu trưởng ít nhất một tháng trước khi bắt đầu học kỳ mới.
 
-**Điều 16. Cảnh báo kết quả học tập, buộc thôi học**
+## Điều 16. Cảnh báo kết quả học tập, buộc thôi học
 
 1. Cảnh báo kết quả học tập được thực hiện theo từng học kỳ, nhằm giúp cho sinh viên có kết quả học tập kém biết và lập phương án học tập thích hợp để có thể tốt nghiệp trong thời gian được phép hoàn thành chương trình quy định tại khoản 3 Điều 6. Sinh viên thuộc diện cảnh báo nếu rơi vào một trong các trường hợp sau:
 1. Điểm trung bình chung học kỳ đạt dưới 0,80 đối với học kỳ đầu của khóa học, dưới 1,00 đối với các học kỳ tiếp theo;
@@ -213,7 +213,7 @@ d) Bị kỷ luật lần thứ hai vì lý do đi thi hộ hoặc nhờ ngườ
 
 3. Chậm nhất là một tháng sau khi sinh viên có quyết định buộc thôi học, nhà trường sẽ thông báo trả về địa phương nơi sinh viên có hộ khẩu thường trú. Những sinh viên thuộc diện bị buộc thôi học quy định tại mục a,b,c khoản 2 của Điều này được quyền xin xét chuyển qua các chương trình đào tạo ở trình độ thấp hơn hoặc chương trình đào tạo vừa làm vừa học tương ứng và được bảo lưu một phần kết quả học tập ở chương trình cũ. Hiệu trưởng xem xét quyết định cho chuyển chương trình đào tạo và cho bảo lưu kết quả học tập đối với từng trường hợp cụ thể. Thời hạn nhận đơn xin xét chuyển xuống học ở trình độ đào tạo thấp hơn hoặc chuyển qua chương trình đào tạo vừa làm vừa học tương ứng không quá 12 tháng kể từ  khi có quyết định buộc thôi học. Nhà trường sẽ không giải quyết các trường hợp nộp đơn muộn.
 
-**Điều 17. Học cùng lúc hai chương trình**
+## Điều 17. Học cùng lúc hai chương trình
 
 1. Sinh viên có thể đăng ký học thêm một chương trình thứ hai để khi tốt nghiệp được cấp hai bằng.
 
@@ -225,7 +225,7 @@ d) Bị kỷ luật lần thứ hai vì lý do đi thi hộ hoặc nhờ ngườ
 
 5. Sinh viên chỉ được xét tốt nghiệp chương trình thứ hai nếu có đủ điều kiện tốt nghiệp ở chương trình thứ nhất.
 
-**Điều 18.  Sinh viên chuyển trường**
+## Điều 18.  Sinh viên chuyển trường
 
 1. Sinh viên của các cơ sở giáo dục đại học khác được xét chuyển vào trường Đại học Công nghiệp Hà Nội nếu thoả mãn các điều kiện sau đây:
 
@@ -251,11 +251,9 @@ b) Phòng đào tạo xử lý hồ sơ, đề xuất Hiệu trưởng quyết �
 
 4. Sinh viên chuyển đi khỏi trường Đại học Công nghiệp Hà Nội phải làm đầy đủ các hồ sơ xin chuyển trường theo quy định của trường.
 
-**Chương III**
+# Chương III: KIỂM TRA VÀ THI  KẾT THÚC HỌC PHẦN
 
-**KIỂM TRA VÀ THI  KẾT THÚC HỌC PHẦN**
-
-**Điều 19.  Quy định thời gian có mặt trên lớp**
+## Điều 19.  Quy định thời gian có mặt trên lớp
 
 1. Đối với học phần chỉ có lý thuyết hoặc học phần có cả lý thuyết và thực hành:
 2. Sinh viên tham dự &gt;=70%  số tiết học của học phần và &gt;= 70% số giờ học của từng bài thực hành được tham dự kỳ thi kết thúc học phần.
@@ -263,7 +261,7 @@ b) Phòng đào tạo xử lý hồ sơ, đề xuất Hiệu trưởng quyết �
 
 2. Đối với các học phần thực hành: Sinh viên  tham dự &gt;=70% số giờ học của từng bài và tất cả các điểm đánh giá đạt yêu cầu được tổng kết học phần. Trường hợp sinh viên không tham dự đủ 70% số giờ học của  từng bài thực hành hoặc có điểm đánh giá bài thực hành không đạt yêu cầu sẽ nhận điểm F là điểm học phần và phải đăng ký học lại học phần đó hoặc học đổi sang học phần khác (đối với học phần tự chọn).
 
-**Điều 20. Tổ chức kỳ thi kết thúc học phần**
+## Điều 20. Tổ chức kỳ thi kết thúc học phần
 
 1. Cuối học kỳ, trường tổ chức một kỳ thi chính và một kỳ thi phụ để thi kết thúc học phần. Kỳ thi phụ dành cho những sinh viên không tham dự kỳ thi chính hoặc có học phần bị điểm F ở kỳ thi chính và được tổ chức sau kỳ thi chính 2 tuần.
 
@@ -271,7 +269,7 @@ b) Phòng đào tạo xử lý hồ sơ, đề xuất Hiệu trưởng quyết �
 
 3. Sinh viên vắng mặt có lý do chính đáng ở kỳ thi chính, nếu được trưởng khoa quản lý sinh viên cho phép, được dự thi ở kỳ thi phụ, điểm thi kết thúc học phần được coi là điểm thi lần đầu. Trường hợp học phần không đạt, sinh viên được 01 lần tham dự kỳ thi bổ sung do nhà trường tổ chức sau 02 tuần tính từ khi kết thúc kỳ thi phụ.
 
-**Điều 21. Ra đề thi, hình thức thi, chấm thi**
+## Điều 21. Ra đề thi, hình thức thi, chấm thi
 
 1. Đề thi kết thúc học phần phải phù hợp với nội dung học phần đã quy định trong chương trình. Việc ra đề thi hoặc lấy từ ngân hàng đề thi được Hiệu trưởng quy định trong văn bản riêng.
 
@@ -285,7 +283,7 @@ Việc bảo quản và lưu giữ các bài thi viết (trắc nghiệm hoặc 
 
 5. Điểm trung bình các điểm trong kỳ, điểm thi kết thúc học phần và điểm học phần phải ghi vào phiếu ghi điểm tổng kết học phần  theo mẫu thống nhất của trường. Hiệu trưởng quy định lưu phiếu ghi điểm học phần trong văn bản riêng.
 
-**Điều 22. Đánh giá học phần**
+## Điều 22. Đánh giá học phần
 
 1. Đối với các học phần chỉ có lý thuyết hoặc có cả lý thuyết và thực hành
 a. Cách xác định điểm trung bình các điểm trong kỳ
@@ -313,7 +311,7 @@ b. Cách xác định điểm học phần
 -  Điểm học phần: Là trung bình cộng của điểm trung bình các điểm trong kỳ và điểm thi kết thúc học phần theo hệ số của từng loại điểm. Điểm học phần được tính theo thang điểm 10 (từ 0 ÷ 10), làm tròn đến một chữ số thập phân và chuyển qua thang điểm chữ để tính điểm trung bình chung.
 2. Đối với các học phần thực hành: Điểm trung bình cộng của điểm các bài thực hành trong học kỳ được làm tròn đến một chữ số thập phân là điểm của học phần thực hành. Điểm đánh giá các bài thực hành làm tròn đến 0,5
 
-**Điều 23. Các loại điểm sử dụng để tính điểm TBC học kỳ, TBC tích lũy**
+## Điều 23. Các loại điểm sử dụng để tính điểm TBC học kỳ, TBC tích lũy
 
 1. Các loại điểm học phần được sử dụng để tính điểm TBC học kỳ
 
@@ -329,7 +327,7 @@ b. Cách xác định điểm học phần
 
 3. Trường hợp sinh viên đăng ký học các học phần ngoài chương trình đào tạo: Điểm học phần của các học phần không nằm trong chương trình đào tạo của ngành học, các học phần này thuộc chương trình đào tạo của ngành khác do sinh viên đăng ký học thêm, không sử dụng để tính điểm TBC học kỳ, TBC tích lũy; Kết quả tích lũy được của các học phần học thêm sẽ không ghi trong bảng kết quả học tập, sinh viên có nhu cầu nhận chứng nhận hoàn thành các học phần này sẽ làm đơn và gửi Phòng đào tạo để cấp chứng nhận.
 
-**Điều 24. Cách tính điểm học phần**
+## Điều 24. Cách tính điểm học phần
 
 1. Điểm học phần được chuyển thành điểm chữ như sau:
 
@@ -391,7 +389,7 @@ b) Học phần Giáo dục Quốc phòng
 
 Điều kiện thi, số lần thi kết thúc học phần, điều kiện cấp chứng chỉ giáo dục quốc phòng – an ninh thực hiện qui định hiện hành của Bộ Giáo dục và Đào tạo.
 
-**Điều 25. Cách tính điểm trung bình chung**
+## Điều 25. Cách tính điểm trung bình chung
 
 1. Để tính điểm trung bình chung học kỳ và điểm trung bình chung tích lũy, điểm chữ của mỗi học phần phải được quy đổi qua điểm số như sau:
 
@@ -421,15 +419,13 @@ Trong đó:
 
 Điểm trung bình chung học kỳ để xét học bổng, khen thưởng sau mỗi học kỳ chỉ tính theo kết quả thi kết thúc học phần ở lần thi thứ nhất. Điểm trung bình chung tích lũy để xét cảnh báo, thôi học, xếp hạng học lực sinh viên và xếp hạng tốt nghiệp được tính theo điểm học phần cao nhất trong các lần học.
 
-**Điều 26. Phúc tra và khiếu nại điểm**
+## Điều 26. Phúc tra và khiếu nại điểm
 
 Điểm học phần được công bố tại văn phòng khoa phụ trách học phần và trên trang web đào tạo (http://dttc.haui.edu.vn). Sinh viên phải kiểm tra kết quả điểm của mình. Sinh viên có quyền gửi đơn khiếu nại về điểm (điểm trung bình chung các điểm trong kỳ, điểm thi kết thúc học phần và điểm học phần) đến văn phòng khoa phụ trách học phần chậm nhất là 7 ngày sau ngày công bố. Trưởng khoa có trách nhiệm phối hợp với phòng Đào tạo và trung tâm Quản lý chất lượng để giải quyết và trả lời khiếu nại của sinh viên theo quy định của nhà trường.
 
-**Chương IV**
+#Chương IV: XÉT VÀ CÔNG NHẬN TỐT NGHIỆP
 
-**XÉT VÀ CÔNG NHẬN TỐT NGHIỆP**
-
-**Điều 27. Thực tập cuối khóa, làm đồ án hoặc khoá luận tốt nghiệp**
+## Điều 27. Thực tập cuối khóa, làm đồ án hoặc khoá luận tốt nghiệp
 
 1. Đầu học kỳ cuối khoá, các sinh viên được đăng ký làm đồ án, khoá luận tốt nghiệp hoặc học thêm một số học phần chuyên môn được quy định như sau:
 
@@ -449,7 +445,7 @@ d) Nhiệm vụ của giảng viên hướng dẫn; trách nhiệm của bộ m�
 
 3. Đối với một số ngành đào tạo đòi hỏi phải dành nhiều thời gian cho thí nghiệm hoặc khảo sát để sinh viên hoàn thành đồ án, khoá luận tốt nghiệp, Hiệu trưởng giao cho trưởng khoa quản lý học phần bố trí thời gian làm đồ án, khoá luận tốt nghiệp của sinh viên kết hợp với thời gian thực tập chuyên môn cuối khoá.
 
-**Điều 28. Chấm đồ án, khoá luận tốt nghiệp**
+## Điều 28. Chấm đồ án, khoá luận tốt nghiệp
 
 **1. Hiệu trưởng quyết định quy trình hướng dẫn và tổ chức bảo vệ đồ án khóa luận tốt nghiệp trong văn bản riêng.**
 
@@ -459,7 +455,7 @@ d) Nhiệm vụ của giảng viên hướng dẫn; trách nhiệm của bộ m�
 
 3. Sinh viên có đồ án, khoá luận tốt nghiệp bị điểm F không được làm lại đồ án, khóa luận tốt nghiệp mà phải đăng ký học thêm một số học phần chuyên môn để thay thế, sao cho tổng số tín chỉ của các học phần chuyên môn học thêm tương đương với số tín chỉ của đồ án, khóa luận tốt nghiệp.
 
-**Điều 29. Điều kiện xét tốt nghiệp và công nhận tốt nghiệp**
+## Điều 29. Điều kiện xét tốt nghiệp và công nhận tốt nghiệp
 
 1. Sinh viên được trường xét và công nhận tốt nghiệp khi có đủ các điều kiện sau:
 
@@ -481,7 +477,7 @@ Hội đồng xét tốt nghiệp trường do Hiệu trưởng hoặc Phó Hi�
 
 3. Căn cứ đề nghị của Hội đồng xét tốt nghiệp, Hiệu trưởng ký quyết định công nhận tốt nghiệp cho những sinh viên đủ điều kiện tốt nghiệp.
 
-**Điều 30. Cấp bằng tốt nghiệp, bảo lưu kết quả học tập, chuyển chương trình đào tạo  và chuyển loại hình đào tạo**
+## Điều 30. Cấp bằng tốt nghiệp, bảo lưu kết quả học tập, chuyển chương trình đào tạo  và chuyển loại hình đào tạo
 
 1. Bằng tốt nghiệp đại học, cao đẳng được cấp theo ngành đào tạo chính (đơn ngành hoặc song ngành). Hạng tốt nghiệp được xác định theo điểm trung bình chung tích lũy của toàn khoá học, như sau:
 
@@ -507,11 +503,9 @@ b) Đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian h�
 
 6. Sinh viên không tốt nghiệp được cấp giấy chứng nhận của trường về các học phần đã học trong chương trình. Những sinh viên này có nguyện vọng, được quyền làm đơn xin chuyển qua các chương trình khác theo quy định tại khoản 2 Điều 16 của Quy chế này.
 
-**Chương V**
+# Chương V: XỬ LÝ VI PHẠM &amp; ĐIỀU KHOẢN THI HÀNH
 
-**XỬ LÝ VI PHẠM &amp; ĐIỀU KHOẢN THI HÀNH**
-
-Điều 31. Xử lý kỷ luật đối với sinh viên vi phạm các quy định về thi, kiểm tra
+## Điều 31. Xử lý kỷ luật đối với sinh viên vi phạm các quy định về thi, kiểm tra
 
 1. Trong khi dự kiểm tra thường xuyên, chuẩn bị tiểu luận, bài tập lớn, thi giữa học phần, thi kết thúc học phần, chuẩn bị đồ án, khoá luận tốt nghiệp nếu vi phạm quy chế, sinh viên sẽ bị xử lý kỷ luật với từng học phần đã vi phạm.
 
@@ -519,7 +513,7 @@ b) Đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian h�
 
 **3. Trừ trường hợp như quy định tại khoản 2 của Điều này, mức độ sai phạm và khung xử lý kỷ luật đối với sinh viên vi phạm được thực hiện theo các quy định của Quy chế tuyển sinh đại học, cao đẳng hệ chính quy.**
 
-**Điều 32. Điều khoản thi hành**
+## Điều 32. Điều khoản thi hành
 
 Quy chế này được áp dụng cho tất  cả các khóa đào tạo đại học và cao đẳng chính quy học theo học chế tín chỉ của Trường Đại học Công nghiệp Hà Nội kể từ học kỳ 2 năm học 2012-2013, thay thế cho Quy chế đào tạo theo học chế tín chỉ ban hành kèm theo Quyết định số 1321/QĐ-ĐHCN ngày 22 tháng 08 năm 2011 của Hiệu trưởng trường Đại học Công nghiệp Hà Nội và các Hướng dẫn thực hiện Quy chế đào tạo Đại học và Cao đẳng chính quy đã ban hành trước đây.
 
