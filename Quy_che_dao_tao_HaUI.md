@@ -28,7 +28,8 @@
 a) Học phần bắt buộc là học phần chứa đựng những nội dung kiến thức chính yếu của mỗi chương trình và bắt buộc sinh viên phải tích lũy;
 
 b) Học phần tự chọn là học phần chứa đựng những nội dung kiến thức cần thiết, nhưng sinh viên được tự chọn theo hướng dẫn của trường nhằm đa dạng hoá hướng chuyên môn hoặc được tự chọn tuỳ ý để tích luỹ đủ số học phần quy định cho mỗi chương trình.
-4. Tín chỉ được sử dụng để tính khối lượng học tập của sinh viên. Một tín chỉ được quy định bằng 15 tiết học lý thuyết; 30 tiết thực hành, thí nghiệm hoặc thảo luận; 45 giờ thực tập tại cơ sở; 45 giờ làm tiểu luận, bài tập lớn hoặc đồ án, khoá luận tốt nghiệp (tương đương 1 tuần liên tục).
+
+3. Tín chỉ được sử dụng để tính khối lượng học tập của sinh viên. Một tín chỉ được quy định bằng 15 tiết học lý thuyết; 30 tiết thực hành, thí nghiệm hoặc thảo luận; 45 giờ thực tập tại cơ sở; 45 giờ làm tiểu luận, bài tập lớn hoặc đồ án, khoá luận tốt nghiệp (tương đương 1 tuần liên tục).
 - Đối với những học phần lý thuyết hoặc thực hành, thí nghiệm, để tiếp thu được một tín chỉ sinh viên phải dành ít nhất 30 giờ chuẩn bị cá nhân.
 - Số tín chỉ của từng học phần được ghi trong chương trình và trong Sổ tay sinh viên.
 
@@ -37,6 +38,7 @@ Thời gian hoạt động giảng dạy của trường từ 6 giờ 30  đến
 
 ## Điều 5. Đánh giá kết quả học tập
 **Kết quả học tập của sinh viên được đánh giá sau từng học kỳ qua các tiêu chí sau:**
+
 1.Tổng số tín chỉ của các học phần mà sinh viên đăng ký học cho mỗi học kỳ (gọi tắt là khối lượng học tập đăng ký).
 2. Điểm trung bình chung học kỳ là điểm trung bình có trọng số của các học phần mà sinh viên đăng ký học trong học kỳ đó, với trọng số là số tín chỉ tương ứng của từng học phần.
 3. Khối lượng kiến thức tích lũy là khối lượng tính bằng tổng số tín chỉ của những học phần  đạt  điểm A, B, C hoặc D tính từ đầu khóa học.
