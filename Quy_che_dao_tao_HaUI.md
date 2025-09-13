@@ -47,6 +47,7 @@ Thời gian hoạt động giảng dạy của trường từ 6 giờ 30  đến
 
 ## Điều 6. Thời gian và kế hoạch đào tạo
 1. Trường Đại học Công nghiệp Hà Nội tổ chức đào tạo theo khoá học, năm học và học kỳ.
+
 a) Khoá học là thời gian thiết kế để sinh viên hoàn thành một chương trình cụ thể. Tuỳ thuộc chương trình, khoá học tại trường Đại học Công nghiệp Hà Nội được quy định như sau:
 - Đào tạo trình độ cao đẳng được thực hiện 3 năm học đối với người có bằng tốt nghiệp trung học phổ thông hoặc tương đương; 1,5 năm  học đối với người có bằng tốt nghiệp trung cấp chuyên nghiệp cùng ngành đào tạo;
 - Đào tạo trình độ đại học được thực hiện 4 năm học đối với người có bằng tốt nghiệp trung học phổ thông hoặc tương đương; 2,5 năm học đối với người có bằng tốt nghiệp trung cấp chuyên nghiệp cùng ngành đào tạo; 1,5 năm học đối với người có bằng tốt nghiệp cao đẳng cùng ngành đào tạo.
