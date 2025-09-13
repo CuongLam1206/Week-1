@@ -75,7 +75,7 @@ Các đối tượng được hưởng chính sách ưu tiên theo quy định t
 
 ## Điều 8. Sắp xếp sinh viên vào học các chương trình hoặc ngành đào tạo
 
-Sinh viên được sắp xếp vào học các chương trình hoặc ngành đào tạo căn cứ vào nguyên vọng cá nhân và kết quả thi tuyển hoặc xét tuyển trong kỳ  tuyển sinh.
+- Sinh viên được sắp xếp vào học các chương trình hoặc ngành đào tạo căn cứ vào nguyên vọng cá nhân và kết quả thi tuyển hoặc xét tuyển trong kỳ  tuyển sinh.
 
 ## Điều 9. Tổ chức lớp học
 
@@ -145,7 +145,7 @@ Sinh viên được phép thôi học đối với học phần xin rút bớt s
 
 ## Điều 13. Nghỉ ốm
 
-Sinh viên xin nghỉ ốm trong quá trình học hoặc trong đợt thi, phải viết đơn xin phép gửi trưởng khoa quản lý sinh viên trong vòng một tuần kể từ ngày ốm, kèm theo giấy chứng nhận của cơ quan y tế trường, hoặc y tế địa phương, hoặc của bệnh viện.
+- Sinh viên xin nghỉ ốm trong quá trình học hoặc trong đợt thi, phải viết đơn xin phép gửi trưởng khoa quản lý sinh viên trong vòng một tuần kể từ ngày ốm, kèm theo giấy chứng nhận của cơ quan y tế trường, hoặc y tế địa phương, hoặc của bệnh viện.
 
 ## Điều 14. Xếp hạng năm đào tạo và học lực
 
