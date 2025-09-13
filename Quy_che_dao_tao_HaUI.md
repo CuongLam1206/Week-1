@@ -69,7 +69,9 @@ Các đối tượng được hưởng chính sách ưu tiên theo quy định t
 
 ## Điều 9. Tổ chức lớp học
 a) Lớp học ổn định được tổ chức theo nhóm các học phần bắt buộc trong một chương trình đào tạo. Hệ thống cán bộ lớp, cán bộ đoàn và hội sinh viên được tổ chức theo các lớp ổn định và duy trì trong cả khoá học.
+
 b) Lớp học độc lập được tổ chức cho từng học phần khác dựa vào đăng ký học tập của sinh viên ở từng học kỳ.
+
 - Số lượng sinh viên tối thiểu cho mỗi lớp học này được quy định như sau: 80 sinh viên đối với các học phần giáo dục đại cương, 60 sinh viên đối với những học phần ngành và 40 sinh viên đối với những học phần chuyên ngành. Nếu số lượng sinh viên đăng ký thấp hơn số lượng tối thiểu quy định thì lớp học sẽ không được tổ chức và sinh viên phải đăng ký chuyển sang học những học phần  khác, nếu chưa đảm bảo đủ quy định về khối lượng học tập tối thiểu cho mỗi học kỳ. Trường hợp đặc biệt do Hiệu trưởng quyết định.
 
 ## Điều 10. Đăng ký khối lượng học tập
