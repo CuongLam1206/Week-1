@@ -399,7 +399,7 @@ d) Nhiệm vụ của giảng viên hướng dẫn; trách nhiệm của bộ m�
 
 ## Điều 28. Chấm đồ án, khoá luận tốt nghiệp
 
-**1. Hiệu trưởng quyết định quy trình hướng dẫn và tổ chức bảo vệ đồ án khóa luận tốt nghiệp trong văn bản riêng.**
+1. Hiệu trưởng quyết định quy trình hướng dẫn và tổ chức bảo vệ đồ án khóa luận tốt nghiệp trong văn bản riêng.**
 
 2. Điểm của đồ án, khoá luận tốt nghiệp được chấm theo thang điểm 10, làm tròn đến một chữ số thập phân, sau đó chuyển sang thang điểm chữ theo quy định tại khoản 1, Điều 24 của Quy chế này.
 
@@ -457,7 +457,7 @@ b) Đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian h�
 
 # Chương V: XỬ LÝ VI PHẠM &amp; ĐIỀU KHOẢN THI HÀNH
 
-## Điều 31. Xử lý kỷ luật đối với sinh viên vi phạm các quy định về thi, kiểm tra
+Điều 31. Xử lý kỷ luật đối với sinh viên vi phạm các quy định về thi, kiểm tra
 
 1. Trong khi dự kiểm tra thường xuyên, chuẩn bị tiểu luận, bài tập lớn, thi giữa học phần, thi kết thúc học phần, chuẩn bị đồ án, khoá luận tốt nghiệp nếu vi phạm quy chế, sinh viên sẽ bị xử lý kỷ luật với từng học phần đã vi phạm.
 
