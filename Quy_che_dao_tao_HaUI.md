@@ -373,7 +373,7 @@ Trong đó:
 
 ## Điều 26. Phúc tra và khiếu nại điểm
 
-- Điểm học phần được công bố tại văn phòng khoa phụ trách học phần và trên trang web đào tạo (http://dttc.haui.edu.vn). Sinh viên phải kiểm tra kết quả điểm của mình. Sinh viên có quyền gửi đơn khiếu nại về điểm (điểm trung bình chung các điểm trong kỳ, điểm thi kết thúc học phần và điểm học phần) đến văn phòng khoa phụ trách học phần chậm nhất là 7 ngày sau ngày công bố. Trưởng khoa có trách nhiệm phối hợp với phòng Đào tạo và trung tâm Quản lý chất lượng để giải quyết và trả lời khiếu nại của sinh viên theo quy định của nhà trường.
+Điểm học phần được công bố tại văn phòng khoa phụ trách học phần và trên trang web đào tạo (http://dttc.haui.edu.vn). Sinh viên phải kiểm tra kết quả điểm của mình. Sinh viên có quyền gửi đơn khiếu nại về điểm (điểm trung bình chung các điểm trong kỳ, điểm thi kết thúc học phần và điểm học phần) đến văn phòng khoa phụ trách học phần chậm nhất là 7 ngày sau ngày công bố. Trưởng khoa có trách nhiệm phối hợp với phòng Đào tạo và trung tâm Quản lý chất lượng để giải quyết và trả lời khiếu nại của sinh viên theo quy định của nhà trường.
 
 # Chương IV: XÉT VÀ CÔNG NHẬN TỐT NGHIỆP
 
