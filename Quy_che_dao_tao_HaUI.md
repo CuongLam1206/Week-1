@@ -237,6 +237,7 @@ Việc bảo quản và lưu giữ các bài thi viết (trắc nghiệm hoặc 
 ## Điều 22. Đánh giá học phần
 
 1. Đối với các học phần chỉ có lý thuyết hoặc có cả lý thuyết và thực hành
+
 a. Cách xác định điểm trung bình các điểm trong kỳ
 
 | STT | Các loại điểm bộ phận      | Hệ số |
